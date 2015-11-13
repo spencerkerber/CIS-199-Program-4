@@ -1,0 +1,9 @@
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\bin\Debug\Program 4.exe.config
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.csprojResolveAssemblyReference.cache
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program_4.Form1.resources
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program_4.Properties.Resources.resources
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.csproj.GenerateResource.Cache
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\bin\Debug\Program 4.exe
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\bin\Debug\Program 4.pdb
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.exe
+c:\users\susan\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.pdb
